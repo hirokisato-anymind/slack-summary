@@ -1,6 +1,6 @@
-# メンバーの個人情報ファイルは除外（テンプレートのみ管理）
-context/members/*.md
-!context/members/_template.md
+# チャンネル設定ファイルは除外（テンプレートのみ管理）
+context/channels/*.md
+!context/channels/_template.md
 
 # Claude Code の自動生成ファイル
 .claude/projects/
